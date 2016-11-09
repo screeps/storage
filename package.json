@@ -1,0 +1,20 @@
+{
+  "name": "@screeps/storage",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "bin": {
+    "screeps-storage": "bin/start.js"
+  },
+  "license": "ISC",
+  "author": "Artem Chivchalov <contact@screeps.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/screeps/storage.git"
+  },
+  "dependencies": {
+    "dnode": "^1.2.2",
+    "lodash": "^3.10.1",
+    "lokijs": "^1.4.1",
+    "q": "^1.4.1"
+  }
+}
