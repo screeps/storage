@@ -1,6 +1,6 @@
 {
   "name": "@screeps/storage",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "lib/index.js",
   "bin": {
     "screeps-storage": "bin/start.js"
