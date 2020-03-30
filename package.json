@@ -12,7 +12,7 @@
     "url": "https://github.com/screeps/storage.git"
   },
   "dependencies": {
-    "lodash": "^3.10.1",
+    "lodash": "^4.0.0",
     "lokijs": "^1.5.6",
     "q": "^1.4.1"
   }
